@@ -1,12 +1,12 @@
 import { createStore } from 'redux';
 
 const INITIAL_STATE = {
-    taskselect: {}
+    alimentosselecionados: {}
 };
 
 function reducers(state = INITIAL_STATE, action) {
-    if(action.type === 'TOGGLE_TASK'){
-        return {taskselect: action.taskselect}
+    if(action.type === 'TOGGLE_ALIMENTO'){
+        return {alimentosselecionados: action.alimentosselecionados}
     }
 
     return state;

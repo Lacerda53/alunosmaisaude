@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Banana",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/banana.svg",
+        "pontuacao": "muitoBom"
+    },
+    {
+        "nome": "Maçã",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/maca.svg",
+        "pontuacao": "excelente"
+    },
+    {
+        "nome": "Uva",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/uva.svg",
+        "pontuacao": "muitoBom"
+    },
+    {
+        "nome": "Melancia",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/melancia.svg",
+        "pontuacao": "excelente"
+    },
+    {
+        "nome": "Pêra",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/pera.svg",
+        "pontuacao": "excelente"
+    },
+    {
+        "nome": "Morango",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/morango.svg",
+        "pontuacao": "muitoBom"
+    }
+]

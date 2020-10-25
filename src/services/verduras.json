@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Cebola",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/cebola.svg",
+        "pontuacao": "bom"
+    },
+    {
+        "nome": "Cogumelo",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/cogumelo.svg",
+        "pontuacao": "excelente"
+    },
+    {
+        "nome": "Milho",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/milho.svg",
+        "pontuacao": "muitoBom" 
+    },
+    {
+        "nome": "Cenoura",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/cenoura.svg",
+        "pontuacao": "muitoBom"
+    },
+    {
+        "nome": "Couve-flor",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135693.svg",
+        "pontuacao": "excelente"
+    },
+    {
+        "nome": "Brócolis",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135694.svg",
+        "pontuacao": "muitoBom"
+    }
+]

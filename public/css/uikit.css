@@ -2012,15 +2012,16 @@ select.uk-form-width-xsmall {
  */
 .uk-button-default {
   background-color: transparent;
-  color: #333;
-  border: 1px solid #e5e5e5;
+  color: #14B0B6;
+  border: 1px solid #14B0B6;
+  border-radius: 55px;
 }
 /* Hover + Focus */
 .uk-button-default:hover,
 .uk-button-default:focus {
   background-color: transparent;
-  color: #333;
-  border-color: #b2b2b2;
+  color: #14B0B6;
+  border-color: #147c80;
 }
 /* OnClick + Active */
 .uk-button-default:active,
@@ -2309,7 +2310,7 @@ select.uk-form-width-xsmall {
 @media (min-width: 960px) {
   .uk-section {
     padding-top: 40px;
-    padding-bottom: 400px;
+    padding-bottom: 40px;
   }
 }
 /*

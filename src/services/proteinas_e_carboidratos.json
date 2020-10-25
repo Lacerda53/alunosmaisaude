@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Carne vermelha",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/carne.svg",
+        "pontuacao": "muitoRuim"
+    },
+    {
+        "nome": "Peixe",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/peixe.svg",
+        "pontuacao": "muitoBom"
+    },
+    {
+        "nome": "Frango",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/frango.svg",
+        "pontuacao": "Bom"
+    },
+    {
+        "nome": "Macarrão",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/macarrao.svg",
+        "pontuacao": "neutro"
+    },
+    {
+        "nome": "Batata frita",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/batata.svg",
+        "calorias": "pessimo"
+    },
+    {
+        "nome": "Panquecas",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/panqueca.svg",
+        "calorias": "neutro"
+    }
+]

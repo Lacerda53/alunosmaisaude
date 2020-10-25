@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Bolos",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/bolo.svg",
+        "pontuacao": "pessimo"
+    },
+    {
+        "nome": "Cereais",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/cereal.svg",
+        "pontuacao":"bom"
+    },
+    {
+        "nome": "Pão",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/pao.svg",
+        "pontuacao": "ruim"
+    },
+    {
+        "nome": "Salgado",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/salgado.svg",
+        "pontuacao": "muitoRuim"
+    },
+    {
+        "nome": "Biscoito",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/biscoito.svg",
+        "pontuacao": "muitoRuim"
+    },
+    {
+        "nome": "Iogurte",
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/2a28141e37e7790c5117193a2dbaf833a366e6d1/alimentos/iogurt.svg",
+        "pontuacao": "bom"
+    }
+]

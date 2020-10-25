@@ -1,32 +1,31 @@
 [
     {
         "nome": "Café",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135588.svg",
-        "calorias": 29
-    },
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/cafe.svg",
+        "pontuacao": "neutro"    },
     {
         "nome": "Chá",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135766.svg",
-        "calorias": 33
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/cha.svg",
+        "pontuacao": "muitoBom"
     },
     {
         "nome": "Suco",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135588.svg",
-        "calorias": 46
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/suco.svg",
+        "pontuacao": "bom"
     },
     {
         "nome": "Leite",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135635.svg",
-        "calorias": 149
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/leite.svg",
+        "pontuacao": "neutro"
     },
     {
         "nome": "Água de coco",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/3215/3215638.svg",
-        "calorias": 40
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/coco.svg",
+        "pontuacao": "muitoBom"
     },
     {
         "nome": "Refrigerante",
-        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135666.svg",
-        "calorias": 85
+        "icon": "https://raw.githubusercontent.com/Lacerda53/Icons-AlunoMaisSaude/ba2bbf99461b0d5d0fbe61bf9394a02ce0802d18/alimentos/refrigerante.svg",
+        "pontuacao": "pessimo"
     }
 ]
