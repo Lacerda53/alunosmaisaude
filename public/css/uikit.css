@@ -31,6 +31,36 @@ body {
   min-height: calc(100vh);
 }
 
+.uk-full-navbar{
+  min-height: calc(100vh - 80px);
+}
+
+.uk-text-medium{
+  font-size: 24px;
+}
+
+.uk-excelente {
+  width: 90%;
+}
+.uk-muito-bom {
+  width: 70%;
+}
+.uk-bom {
+  width: 60%;
+}
+.uk-neutro {
+  width: 50%;
+}
+.uk-ruim {
+  width: 34%;
+}
+.uk-muito-ruim {
+  width: 28%;
+}
+.uk-pessimo {
+  width: 14%;
+}
+
 .margin-progress{
   margin-top: 8px;
 }
@@ -38,6 +68,11 @@ body {
 .uk-backgroundColor{
   background-color: #F3F7F8;
 }
+
+.uk-border-card{
+  border-radius: 20px;
+}
+
 /* Links
  ========================================================================== */
 /*
@@ -1981,7 +2016,6 @@ select.uk-form-width-xsmall {
   text-align: center;
   /* 10 */
   text-decoration: none;
-  text-transform: uppercase;
   transition: 0.1s ease-in-out;
   transition-property: color, background-color, border-color;
 }

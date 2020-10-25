@@ -47,7 +47,7 @@ function Janta() {
                     <div class="">
                         <button className="uk-button uk-border-rounded uk-button-large uk-text-bold uk-width-1-1">
                             <div className="uk-flex-center">
-                                <span className="" uk-icon="icon: close"></span> Não costumo tomar café
+                                <span className="" uk-icon="icon: close"></span> Não costumo jantar
                     </div>
                         </button>
                     </div>
