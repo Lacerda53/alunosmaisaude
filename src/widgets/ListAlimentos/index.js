@@ -18,7 +18,7 @@ function ListAlimentos({alimento}) {
             <button href="" className="uk-flex-left" uk-icon="icon: chevron-left; ratio: 1.8"></button>
             {alimento.map(a => (
                 <div style={estilo} className="uk-text-center uk-flex-colum" onClick={(e)=>togleIcon(a,e)}>
-                    <img src={a.icon} width={a.nome == "Suco"? 50 :71}/>
+                    <img src={a.icon} width={a.nome == "Suco"? 50 :70}/>
                     <br />
                     <span className="uk-text-bold">{a.nome}</span>
                 </div>

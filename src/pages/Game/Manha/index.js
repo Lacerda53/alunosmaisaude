@@ -18,31 +18,30 @@ function Manha() {
                     </div>
                 </div>
                 <br />
-                <br />
                 <div className="uk-container">
                     <div className="uk-text-meta">
                         líquidos
                     </div>
-                    <br /><br />
+                    <br />
                     <ListAlimentos alimento={liquido} />
                 </div>
-                <br /><br />
+                <br />
                 <div className="uk-container">
                     <div className="uk-text-meta">
                         Carboidratos e doces
                     </div>
-                    <br /><br />
+                    <br />
                     <ListAlimentos alimento={carboidratos} />
                 </div>
-                <br /><br />
+                <br />
                 <div className="uk-container">
                     <div className="uk-text-meta">
                         Frutas
                     </div>
-                    <br /><br />
+                    <br />
                     <ListAlimentos alimento={frutas} />
                 </div>
-                <br /><br />
+                <br />
                 <div className="uk-container">
                     <div class="">
                         <button className="uk-button uk-border-rounded uk-button-large uk-button-danger uk-text-bold uk-width-1-1">
@@ -53,12 +52,14 @@ function Manha() {
                     </div>
                 </div>
                 <br /><br />
-                <div className="uk-container uk-flex uk-flex-between">
-                    <div className="uk-flex-left">
-                        <Link className="uk-button uk-text-bold uk-button-disable uk-button-medium uk-button-default">Anterior</Link>
-                    </div>
-                    <div className="uk-flex-right">
-                        <Link to="/almoco" className="uk-button uk-text-bold uk-button-medium uk-button-primary">Próximo</Link>
+                <div className="uk-container">
+                    <div className="uk-flex uk-flex-center uk-flex-between uk-grid">
+                        <div className="uk-margin">
+                            <Link className="uk-button uk-text-bold  uk-button-disable uk-button-medium uk-button-default">Anterior</Link>
+                        </div>
+                        <div className="uk-flex-right uk-flex-center@s">
+                            <Link to="/almoco" className="uk-button uk-text-bold uk-button-medium uk-button-primary">Próximo</Link>
+                        </div>
                     </div>
                 </div>
             </div>
