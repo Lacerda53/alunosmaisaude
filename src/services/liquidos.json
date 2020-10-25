@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Café",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135588.svg",
+        "calorias": 29
+    },
+    {
+        "nome": "Chá",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135766.svg",
+        "calorias": 33
+    },
+    {
+        "nome": "Suco",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135588.svg",
+        "calorias": 46
+    },
+    {
+        "nome": "Leite",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135635.svg",
+        "calorias": 149
+    },
+    {
+        "nome": "Água de coco",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/3215/3215638.svg",
+        "calorias": 40
+    },
+    {
+        "nome": "Refrigerante",
+        "icon": "https://www.flaticon.com/svg/static/icons/svg/135/135666.svg",
+        "calorias": 85
+    }
+]
