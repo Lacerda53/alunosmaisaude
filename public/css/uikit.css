@@ -2105,6 +2105,13 @@ select.uk-form-width-xsmall {
   background-color: #080808;
   color: #fff;
 }
+
+.uk-button-orange {
+  background-color: #FFA400;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 55px;
+}
 /*
  * Danger
  */

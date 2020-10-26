@@ -10,7 +10,7 @@ function Parabens() {
                 <div className="uk-container">
                     <div className="uk-flex uk-flex-between">
                         <progress class="uk-progress margin-progress" value="6" max="6"></progress>
-                        <a href="" className="uk-flex-right" uk-icon="icon: close; ratio: 1.4"></a>
+                        <Link to="/" className="uk-flex-right" uk-icon="icon: close; ratio: 1.4"></Link>
                     </div>
                 </div>
                 <br />
@@ -39,7 +39,7 @@ function Parabens() {
                         Pontuação baseada nos marcadores de consumo alimentar do ministério da Saúde.
                     </div>
                     <div className="uk-container uk-margin-top">
-                        <Link to="/" className="uk-button uk-text-bold uk-button-medium uk-button-primary">Concluir</Link>
+                        <Link to="/dashboard" className="uk-button uk-text-bold uk-button-medium uk-button-primary">Concluir</Link>
                     </div>
                 </div>
             </div>

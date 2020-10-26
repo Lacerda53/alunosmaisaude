@@ -11,6 +11,8 @@ import GameParabens from './pages/Game/Parabens/index.js'
 import Inicio from './pages/Home/index.js'
 import Turmas from './pages/Turmas/index.js'
 import DetalhesTurma from './pages/DetalhesTurma/index.js'
+import Avaliacao from './pages/Avaliacao/index.js'
+import Dashboard from './pages/Dashboard/index.js'
 
 
 export default function Routes() {
@@ -27,6 +29,8 @@ export default function Routes() {
                 <Route path="/parabens" component={GameParabens} />
                 <Route path="/turmas" component={Turmas} />
                 <Route path="/detalhesTurma" component={DetalhesTurma} />
+                <Route path="/avaliacao" component={Avaliacao} />
+                <Route path="/dashboard" component={Dashboard} />
             </Switch>
         </BrowserRouter>
     );

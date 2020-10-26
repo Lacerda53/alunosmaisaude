@@ -10,8 +10,16 @@ function ListAlimentos({alimento}) {
 
     function togleIcon(item, e){
         console.log(e.target);
-        setvalor(item.nome);
-        setestilo({border: "3px dashed #14B0B6"});
+        if(estilo != null)
+        {
+            setestilo();
+            setvalor();
+        }
+        else{
+            setvalor(item.pontuacao);
+            setestilo({border: "3px dashed #14B0B6"});
+        }
+        
     }
     return (
         <div className="uk-flex uk-flex-between">

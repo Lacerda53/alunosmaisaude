@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../../assets/images/logo.svg'
 function Inicio() {
+
     return (
         <div className="uk-full uk-backgroundColor">
             <div className="uk-section">
