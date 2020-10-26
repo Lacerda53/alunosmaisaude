@@ -50,7 +50,7 @@ function NavBar() {
                                     <li><Link to="/">Home</Link></li>
                                     <li><Link to="/turmas">Turmas</Link></li>
                                     <li><a >Ajuda</a></li>
-                                    <li><Link to="/game">Game</Link></li>
+                                    <li><Link className="uk-button-game" to="/game">Game</Link></li>
                                 </ul>
                             </div>
                         </div>

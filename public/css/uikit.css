@@ -2121,6 +2121,13 @@ select.uk-form-width-xsmall {
   border: 1px solid transparent;
   border-radius: 55px;
 }
+
+.uk-button-orange:hover {
+  background-color: #FFA400;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 55px;
+}
 /*
  * Danger
  */
