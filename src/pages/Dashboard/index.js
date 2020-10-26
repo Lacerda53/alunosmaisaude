@@ -13,7 +13,7 @@ function Dashboard() {
                             <h2><strong>Turma 3012</strong></h2>
                         </div>
                         <div className="uk-flex">
-                            <Link to="/turmas" className="uk-button uk-button-primary uk-text-bold uk-button-medium"><span uk-icon="icon: arrow-left"></span> Voltar</Link>
+                            <Link to="/" className="uk-button uk-button-primary uk-text-bold uk-button-medium"><span uk-icon="icon: arrow-left"></span> Voltar</Link>
                         </div>
                     </div>
                     <div className="uk-card uk-card-default uk-card-body uk-margin-top uk-border-card">

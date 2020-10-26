@@ -10,7 +10,9 @@ function NavBar() {
                 <nav class="uk-navbar uk-navbar">
                     <div class="uk-navbar-left">
                         <div class="uk-navbar-item uk-logo">
-                            <img src={logoSvg} />
+                            <Link to="/">
+                                <img src={logoSvg} />
+                            </Link>
                         </div>
                     </div>
 

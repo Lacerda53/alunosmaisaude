@@ -61,6 +61,15 @@ body {
   width: 14%;
 }
 
+.uk-button-plus{
+  width: 116px;
+  height: 116px;
+}
+
+.uk-text-orange{
+  color: #FFA400;
+}
+
 .margin-progress{
   margin-top: 8px;
 }
