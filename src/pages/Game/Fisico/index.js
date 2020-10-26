@@ -17,7 +17,7 @@ function Fisico() {
                 <div className="uk-container">
                     <div className="uk-flex uk-flex-between">
                         <progress class="uk-progress margin-progress" value="5" max="6"></progress>
-                        <a href="" className="uk-flex-right" uk-icon="icon: close; ratio: 1.4"></a>
+                        <Link to="/" className="uk-flex-right" uk-icon="icon: close; ratio: 1.4"></Link>
                     </div>
                     <div className="uk-text-lead">
                         Quais atividades físicas você pratica?
